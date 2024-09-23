@@ -5,12 +5,10 @@
 
 # Mini Project1
 
-This project will be using the packages NumPy and Matplotlib in order to create 5 graphs that output as PNG files.
-
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This project will be using the packages NumPy and Matplotlib in order to create 5 graphs that output as PNG files.
 
 ## Getting Started
 
