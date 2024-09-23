@@ -39,4 +39,4 @@ ex. Sira Drame
 Inspiration, code snippets, etc.
 * [yfinance](https://pypi.org/project/yfinance/)
 * [matplotlib](https://matplotlib.org/stable/tutorials/pyplot.html)
-* [ChatGPT](https://chatgpt.com/)
+* [ChatGPT](https://chatgpt.com/).
