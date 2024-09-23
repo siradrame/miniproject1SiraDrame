@@ -20,25 +20,15 @@ An in-depth paragraph about your project and overview of use.
 pip install  -r requirements.txt
 ```
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
 ```
-code blocks for commands
+python main.py
 ```
 
-## Help
+##
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+This should create 5 graphs in charts/ for each of  the 5 stocks.
 
 ## Authors
 
